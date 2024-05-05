@@ -23,7 +23,7 @@ c)Locality Sensitive Hashing (Candidate Generation): It takes the outputs scores
 --> Final step is to report the number of false positives and false negatives whose Jaccard Similarity Scores are compared to a value of "t".
 
 
-IDE Used: Google Colab Notebook
+IDE Used: Visual Studio Code
 
 Language Used: Python
 
