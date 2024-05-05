@@ -1,3 +1,4 @@
+## EN
 # Detecting Plagiarism between documents using Locality Sensitive Hashing
 
 This project was developed as part of my Master's Course Study in Algorithms and Methods for Big Data Analytics
