@@ -5,7 +5,7 @@ IDE Used: Visual Studio Code
 
 Language Used: Python
 
-####### About:
+###### About:
 
 This project was developed as part of my Master's Course Study in Algorithms and Methods for Big Data Analytics
 
@@ -25,7 +25,7 @@ The main motive of this project is to understand the process of how do we estima
 
 --> Final step is to report the number of false positives and false negatives whose Jaccard Similarity Scores are compared to a value of "t".
 
-######## Description about the files:
+###### Description about the files:
 
   1)Project.pdf: This file contains the steps associated for developing the application and also the intermediate output formats for executing the program.
 
