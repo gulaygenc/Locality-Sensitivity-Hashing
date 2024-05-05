@@ -45,12 +45,12 @@ try:
 except Exception as e:
     print('Please enter a valid ID...')
 
-data_path = '/content/corpus_data' 
+data_path = '/Users/gulay/Documents/GitHub/Locality-Sensitivity-Hashing/corpus' 
 # Edit this path if the data directory is not in the current directory
 
 try:
-    os.makedirs('Data_Sample')
-    os.makedirs('Original_Sample')
+    os.makedirs('/Users/gulay/Documents/GitHub/Locality-Sensitivity-Hashing/Data_Sample')
+    os.makedirs('/Users/gulay/Documents/GitHub/Locality-Sensitivity-Hashing/Original_Sample')
 except Exception as e:
     pass
 
@@ -71,7 +71,7 @@ for i in range(3):
 import re
 from pathlib import Path
 d = {} # This stores each file with all its set of words for data_sample
-directory = '/content/Data_Sample/' # Directory Path of Data Sample
+directory = '/Users/gulay/Documents/GitHub/Locality-Sensitivity-Hashing/Data_Sample/' # Directory Path of Data Sample
 data = '' # We are initializing the empty string to store individual data file
 for file in os.listdir(directory): # Reading each file from the directory
   filepath = directory + file # Combining the directory with the text file which obtains the filepath
@@ -296,7 +296,7 @@ mat_1000 = np.mat(mat_1000) # Converting the array into matrices and we find mat
 # Type your code here to do the fact check 
 #      with any one query document in the 'Original_Sample' directory
 
-original = '/content/Original_Sample/orig_taska.txt'
+original = '/Users/gulay/Documents/GitHub/Locality-Sensitivity-Hashing/Original_Sample/orig_taska.txt'
 
 # STEP-1: Generate 5-shingles 
     # (if any shingles are not present in your shingle index, simply ignore them)
