@@ -1,4 +1,4 @@
-#### EN
+##### EN
 # Detecting Plagiarism between documents using Locality Sensitive Hashing
 
 This project was developed as part of my Master's Course Study in Algorithms and Methods for Big Data Analytics
@@ -50,6 +50,6 @@ This corpus file defines various degrees of plagiarism. They are categorized int
   
 Output Files: The explanation about the output generated is available in "Locality_Sensitive_Hashing.ipynb" python file which explains clearly each step on how is the end result obtained.
   
-#### TR
+##### TR
 
 
