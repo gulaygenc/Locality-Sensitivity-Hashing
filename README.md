@@ -1,9 +1,9 @@
 ##### EN
 # Detecting Plagiarism Between Documents using Locality Sensitive Hashing
 
-IDE Used: Visual Studio Code
+**IDE Used: Visual Studio Code**
 
-Language Used: Python
+**Language Used: Python**
 
 ###### About:
 
